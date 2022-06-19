@@ -738,4 +738,10 @@ hr{
     .column-1::-webkit-scrollbar{
         display: none;
     }
+    .contact .container{
+        width: 100%;
+    }
+    .form{
+        max-width: 100%;
+    }
 }
