@@ -656,7 +656,19 @@ hr{
     .blog .flex{
         column-gap: 20px;
     }
-    
+    .top{
+        display: block;
+    }
+    .First ,
+    .Last {
+        width: 100%;
+    }
+    .First input{
+        width: 100%;
+    }
+    .First label{
+        width: 100%;
+    }
 }
 
 @media  (min-width: 520px) and (max-width: 1100px) {
