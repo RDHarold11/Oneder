@@ -738,10 +738,17 @@ hr{
     .column-1::-webkit-scrollbar{
         display: none;
     }
-    .contact .container{
+    .top{
+        display: block;
+    }
+    .First ,
+    .Last {
         width: 100%;
     }
-    .form{
-        max-width: 100%;
+    .First input{
+        width: 100%;
+    }
+    .First label{
+        width: 100%;
     }
 }
